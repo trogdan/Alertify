@@ -7,6 +7,3 @@
 [submodule "android-alertify"]
 	path = android-alertify
 	url = git@github.com:trogdan/android-alertify.git
-[submodule "pebble-alertify"]
-	path = pebble-alertify
-	url = https://github.com/chenybing/pebble-alertify.git
