@@ -1,0 +1,3 @@
+[submodule "PebbleKit-Android"]
+	path = PebbleKit-Android
+	url = git@github.com:trogdan/PebbleKit-Android.git
