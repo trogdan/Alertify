@@ -1,3 +1,6 @@
 [submodule "PebbleKit-Android"]
 	path = PebbleKit-Android
 	url = git@github.com:trogdan/PebbleKit-Android.git
+[submodule "locale-api"]
+	path = locale-api
+	url = git@github.com:trogdan/locale-api.git
