@@ -4,3 +4,6 @@
 [submodule "locale-api"]
 	path = locale-api
 	url = git@github.com:trogdan/locale-api.git
+[submodule "android-alertify"]
+	path = android-alertify
+	url = git@github.com:trogdan/android-alertify.git
